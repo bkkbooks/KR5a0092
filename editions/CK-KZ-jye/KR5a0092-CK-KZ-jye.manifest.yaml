@@ -1,0 +1,214 @@
+canonical_identifier: bkk:krp/KR5a0092/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5a0092/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶無量度人上品妙經註解
+  date: '2015-08-28 23:36:07.120484'
+  source:
+    repository: kanripo
+    path: KR5a0092
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0092_000-CK-KZ-jye.yaml, hash: 'sha256:9c53cb4a1d144a2d441848bbd2d495f44d6473aad3bcba5582d57fd523ca1831'}
+  - {seq: 1, filename: KR5a0092_001-CK-KZ-jye.yaml, hash: 'sha256:3f55b5ccac12c2303526b029c6d57a5fbd57a10b256cbe16b0e910b6316582cc'}
+  - {seq: 2, filename: KR5a0092_002-CK-KZ-jye.yaml, hash: 'sha256:018f2226b8658a6f85d285bccf23c50e896add3aaf912ecdfc3e777895d09079'}
+  - {seq: 3, filename: KR5a0092_003-CK-KZ-jye.yaml, hash: 'sha256:32c342100d7ab963b37dfa6d8417a1df2119087dbb057f954ba27804ea6579c1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0092_000-CK-KZ-jye.markers.yaml, hash: 'sha256:8b70e5e90dbec7e7da7e220ab9675a6a212e0cf042dfc7069192b8e275fec35f'}
+  - {seq: 1, role: markers, filename: assets/KR5a0092_001-CK-KZ-jye.markers.yaml, hash: 'sha256:a9ff6bfb7f303a5bf1fcfb51fb194040b0896c7f9b0cc3377d3eaed7f7e04e7c'}
+  - {seq: 2, role: markers, filename: assets/KR5a0092_002-CK-KZ-jye.markers.yaml, hash: 'sha256:3d1752315ed4d39e37d8e93a335aaa9ca719404afafa912a3df17305cecd8810'}
+  - {seq: 3, role: markers, filename: assets/KR5a0092_003-CK-KZ-jye.markers.yaml, hash: 'sha256:c76d295e8e8e689bc1e8e39d46b01f91daa115d8b42153b75aaaab6a89f5ff84'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0092_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 1374
+  label: 太上洞玄靈寳无量度人上品妙經註序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0092_CK-KZ_02p001a
+    span:
+    - body
+    - 0
+    - 13293
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0092_CK-KZ-jye_002-h6
+    span:
+    - body
+    - 0
+    - 584
+  label: 第一欲界飛空之音
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0092_CK-KZ-jye_002-h7
+    span:
+    - body
+    - 584
+    - 1018
+  label: 第二色界魔王之章
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5a0092_CK-KZ-jye_002-h8
+    span:
+    - body
+    - 1018
+    - 2906
+  label: 第三无色界魔王歌曰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h1
+    span:
+    - body
+    - 7976
+    - 9079
+  label: 南方八天
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h2
+    span:
+    - body
+    - 9079
+    - 10045
+  label: 西方八天
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h3
+    span:
+    - body
+    - 10045
+    - 11969
+  label: 北方八天
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h4
+    span:
+    - body
+    - 11969
+    - 12033
+  label: 東方八天¶<md:KR5a0092_HFL_003-039b>
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h5
+    span:
+    - body
+    - 12033
+    - 12097
+  label: 南方八天
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h6
+    span:
+    - body
+    - 12097
+    - 12161
+  label: 西方八天¶<md:KR5a0092_HFL_003-040a>
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h7
+    span:
+    - body
+    - 12161
+    - 12296
+  label: 北方八天
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h8
+    span:
+    - body
+    - 12296
+    - 12396
+  label: 太極眞人頌
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h9
+    span:
+    - body
+    - 12396
+    - 12506
+  label: 太極眞人曰
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h10
+    span:
+    - body
+    - 12506
+    - 12538
+  label: 誦經畢呪曰
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h11
+    span:
+    - body
+    - 12538
+    - 12606
+  label: 閉目咽液三過叩齒三通復爐呪曰
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h12
+    span:
+    - body
+    - 12606
+    - 12638
+  label: 再叩齒三通念
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_CK-KZ-jye_003-h13
+    span:
+    - body
+    - 12638
+    - 12937
+  label: 心拜咽液叩齒收經
+  type: section
+  level: 1
+hash: sha256:50b11bc9e907239de567a4c224f794755d78c44a6398e54c1447e3ba2369cb9c

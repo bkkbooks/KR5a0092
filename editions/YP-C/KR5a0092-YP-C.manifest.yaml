@@ -1,0 +1,75 @@
+canonical_identifier: bkk:krp/KR5a0092/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5a0092/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶無量度人上品妙經註解
+  date: '2015-08-28 23:36:07.120484'
+  source:
+    repository: kanripo
+    path: KR5a0092
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0092_000-YP-C.yaml, hash: 'sha256:e8eee320dcf42eb38c21884c6095592c41fa67ab70498d9fa3db8231e2cded12'}
+  - {seq: 1, filename: KR5a0092_001-YP-C.yaml, hash: 'sha256:82c31ea447eea5f50b79b53d8a2bab52e597412dbf49c27d20ace45214350fd6'}
+  - {seq: 2, filename: KR5a0092_002-YP-C.yaml, hash: 'sha256:743ca3c7a7b29fe5d82e5bcd849d11ec254dfcf9f892587d75e63ba5c90385b9'}
+  - {seq: 3, filename: KR5a0092_003-YP-C.yaml, hash: 'sha256:5c275fd8b8087bd55f8b19c017d3ef9e96a0c68a24107fa155aa23b55f36b73e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0092_000-YP-C.markers.yaml, hash: 'sha256:5661ac1745390e9c1e1ea351f9d57e9befcd9aac9a9d3929b98fa947df1aa20b'}
+  - {seq: 1, role: markers, filename: assets/KR5a0092_001-YP-C.markers.yaml, hash: 'sha256:9b3c62363b63772d343ac66d588b7cd456d506747951f4e8cf646d315c6dcc37'}
+  - {seq: 2, role: markers, filename: assets/KR5a0092_002-YP-C.markers.yaml, hash: 'sha256:1b8ab2c52a82dd641b6eedb00fb4eb6f7ab8cc2f361dbf625164d15b3a9261f0'}
+  - {seq: 3, role: markers, filename: assets/KR5a0092_003-YP-C.markers.yaml, hash: 'sha256:a62c094f76a7f9944fcf9ac78313e25365f42d958a4d6e070d40c3856b58624c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0092_YP-C_02kangji-06-0001a
+    span:
+    - body
+    - 0
+    - 1390
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0092_YP-C_02kangji-06-0004a
+    span:
+    - body
+    - 0
+    - 13293
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0092_YP-C_02kangji-06-0033b
+    span:
+    - body
+    - 0
+    - 15645
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_YP-C_02kangji-06-0074a
+    span:
+    - body
+    - 0
+    - 13008
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:fe9fc38974b0e6639fdbf8bce8126c32619021518fbdf1c16f6ba8eda016b185

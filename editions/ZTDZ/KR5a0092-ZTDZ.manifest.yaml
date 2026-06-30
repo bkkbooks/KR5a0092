@@ -1,0 +1,75 @@
+canonical_identifier: bkk:krp/KR5a0092/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0092/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶無量度人上品妙經註解
+  date: '2015-08-28 23:36:07.120484'
+  source:
+    repository: kanripo
+    path: KR5a0092
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0092_000-ZTDZ.yaml, hash: 'sha256:76b438aaa42f1c56bf76497f447bf27fb61a8cdffe1b5efc8ebbd02039f06cd8'}
+  - {seq: 1, filename: KR5a0092_001-ZTDZ.yaml, hash: 'sha256:11940227b83e7e434ba8dec1adb0f075c2470030d011104745ed47eec8b46426'}
+  - {seq: 2, filename: KR5a0092_002-ZTDZ.yaml, hash: 'sha256:2ad920dedd8345d74075094e91a02fc08dfecfd3ee2b4a3d0125154cceb392fd'}
+  - {seq: 3, filename: KR5a0092_003-ZTDZ.yaml, hash: 'sha256:5c99797163aadb75c8ce169eebdb44cbc6c663c689774ed3c4017f4e92a3f8d7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0092_000-ZTDZ.markers.yaml, hash: 'sha256:7ec18c35f4e84ec7b697509ede1268c91b2b37615146e3dc7dff4fec5490f514'}
+  - {seq: 1, role: markers, filename: assets/KR5a0092_001-ZTDZ.markers.yaml, hash: 'sha256:ed33ac4e17a89acd2c807458809420ca74f0e0981c7f2455b3cff5cc1079211a'}
+  - {seq: 2, role: markers, filename: assets/KR5a0092_002-ZTDZ.markers.yaml, hash: 'sha256:82e21a1358cf1705db0b4feb730328bf7a034b06ba089ab157f522a5117ad487'}
+  - {seq: 3, role: markers, filename: assets/KR5a0092_003-ZTDZ.markers.yaml, hash: 'sha256:e380555b005ac1fa8369514d066d6c0bbd50cdae0013a3f694f8dd6f507c1749'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0092_SJB_000-020392c
+    span:
+    - body
+    - 0
+    - 31
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5a0092_SJB_001-020394b
+    span:
+    - body
+    - 0
+    - 13306
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0092_SJB_002-020408b
+    span:
+    - body
+    - 0
+    - 15669
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0092_SJB_003-020426a
+    span:
+    - body
+    - 0
+    - 13087
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:bd77e44d58a87898c0fad734277810efd459c04f7e918c607df6649c15827b71
