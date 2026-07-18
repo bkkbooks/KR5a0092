@@ -1505,6 +1505,7 @@ markers:
   - {type: indent, offset: 5022, content: 　, id: KR5a0092_CK-KZ-jye_003-bkkind211}
   - {type: line-break, offset: 5031, content: '', id: KR5a0092_CK-KZ_02p082a08}
   - {type: punctuation, offset: 5039, content: (, id: KR5a0092_CK-KZ-jye_003-bkkpn1}
+  - {type: voice, offset: 5039, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 5042, content: ), id: KR5a0092_CK-KZ-jye_003-bkkpn2}
   - {type: 'kr:newline', offset: 5046, content: '
 
@@ -1588,9 +1589,11 @@ markers:
   - {type: indent, offset: 5299, content: 　, id: KR5a0092_CK-KZ-jye_003-bkkind223}
   - {type: line-break, offset: 5304, content: '', id: KR5a0092_CK-KZ_02p082b14}
   - {type: punctuation, offset: 5317, content: (, id: KR5a0092_CK-KZ-jye_003-bkkpn3}
+  - {type: voice, offset: 5317, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 5320, content: ), id: KR5a0092_CK-KZ-jye_003-bkkpn4}
   - {type: line-break, offset: 5321, content: '', id: KR5a0092_CK-KZ_02p082b15}
   - {type: punctuation, offset: 5321, content: (, id: KR5a0092_CK-KZ-jye_003-bkkpn5}
+  - {type: voice, offset: 5321, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 5324, content: ), id: KR5a0092_CK-KZ-jye_003-bkkpn6}
   - {type: 'kr:newline', offset: 5324, content: '
 
@@ -3999,6 +4002,7 @@ markers:
   - {type: line-break, offset: 12538, content: '', id: KR5a0092_CK-KZ_02p100b11}
   - {type: indent, offset: 12538, content: 　, id: KR5a0092_CK-KZ-jye_003-bkkind686}
   - {type: punctuation, offset: 12538, content: (, id: KR5a0092_CK-KZ-jye_003-bkkpn7}
+  - {type: voice, offset: 12538, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 12539, content: ), id: KR5a0092_CK-KZ-jye_003-bkkpn8}
   - {type: line-break, offset: 12554, content: '', id: KR5a0092_CK-KZ_02p100b12}
   - {type: 'kr:newline', offset: 12561, content: '
@@ -4126,4 +4130,4 @@ markers:
 
       ', id: KR5a0092_CK-KZ-jye_003-bkkkrnewl676}
   back: []
-hash: sha256:c76d295e8e8e689bc1e8e39d46b01f91daa115d8b42153b75aaaab6a89f5ff84
+hash: sha256:80055310c4bfca420af1b6aaef52fc1d94989d0a7f1eee829f32908b1a51746d

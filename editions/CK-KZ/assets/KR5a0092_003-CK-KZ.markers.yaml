@@ -1503,6 +1503,7 @@ markers:
   - {type: indent, offset: 5022, content: 　, id: KR5a0092_CK-KZ_003-bkkind211}
   - {type: line-break, offset: 5031, content: '', id: KR5a0092_CK-KZ_02p082a08}
   - {type: punctuation, offset: 5039, content: (, id: KR5a0092_CK-KZ_003-bkkpn1}
+  - {type: voice, offset: 5039, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 5042, content: ), id: KR5a0092_CK-KZ_003-bkkpn2}
   - {type: 'kr:newline', offset: 5046, content: '
 
@@ -1586,9 +1587,11 @@ markers:
   - {type: indent, offset: 5299, content: 　, id: KR5a0092_CK-KZ_003-bkkind223}
   - {type: line-break, offset: 5304, content: '', id: KR5a0092_CK-KZ_02p082b14}
   - {type: punctuation, offset: 5317, content: (, id: KR5a0092_CK-KZ_003-bkkpn3}
+  - {type: voice, offset: 5317, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 5320, content: ), id: KR5a0092_CK-KZ_003-bkkpn4}
   - {type: line-break, offset: 5321, content: '', id: KR5a0092_CK-KZ_02p082b15}
   - {type: punctuation, offset: 5321, content: (, id: KR5a0092_CK-KZ_003-bkkpn5}
+  - {type: voice, offset: 5321, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 5324, content: ), id: KR5a0092_CK-KZ_003-bkkpn6}
   - {type: 'kr:newline', offset: 5324, content: '
 
@@ -4019,6 +4022,7 @@ markers:
   - {type: line-break, offset: 12595, content: '', id: KR5a0092_CK-KZ_02p100b13}
   - {type: indent, offset: 12595, content: 　, id: KR5a0092_CK-KZ_003-bkkind697}
   - {type: punctuation, offset: 12595, content: (, id: KR5a0092_CK-KZ_003-bkkpn7}
+  - {type: voice, offset: 12595, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 12596, content: ), id: KR5a0092_CK-KZ_003-bkkpn8}
   - {type: line-break, offset: 12611, content: '', id: KR5a0092_CK-KZ_02p100b14}
   - {type: 'kr:newline', offset: 12618, content: '
@@ -4150,4 +4154,4 @@ markers:
 
       ', id: KR5a0092_CK-KZ_003-bkkkrnewl676}
   back: []
-hash: sha256:c53ffb44f9030642227d103442247a48f5d1e47713560a6bcad0f1a30f1123bb
+hash: sha256:c73e2ddb5523d027b3de0f3197049bd6f759240630c8938ab1b33dd20500fe9f
